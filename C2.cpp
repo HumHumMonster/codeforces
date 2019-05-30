@@ -1,5 +1,6 @@
 /*
-C2.cpp
+C2 div2(几何、).cpp
+http://codeforces.com/contest/1163/problem/C2
 给出n个点的xy坐标，所有点两两连成一条直线
 问最后有几个交点
 */
